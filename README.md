@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Olivier AGBENONWOSSI! 👋<br>I’m a Computer Science student with a passion for coding, electronics, and building cool projects.<br>Right now, I’m diving deep into JavaScript and exploring the power of React JS to bring my ideas to life.<br>I love solving problems, experimenting with new technologies, and turning small ideas into real apps 💡➡️💻.<br>My journey is all about learning, making mistakes, and improving every day 🚀.<br>When I’m not coding, I enjoy exploring tech trends, reading about innovations, and dreaming about the next big project.
+Hi, I’m Olivier AGBENONWOSSI ! 👋<br>I’m a Computer Science student with a passion for coding, electronics, and building cool projects.<br>Right now, I’m diving deep into JavaScript and exploring the power of React JS to bring my ideas to life.<br>I love solving problems, experimenting with new technologies, and turning small ideas into real apps 💡➡️💻.<br>My journey is all about learning, making mistakes, and improving every day 🚀.<br>When I’m not coding, I enjoy exploring tech trends, reading about innovations, and dreaming about the next big project.
 
 
 ## 🌐 Socials:
